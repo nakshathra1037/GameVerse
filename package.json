@@ -1,0 +1,12 @@
+{
+  "name": "gameverse",
+  "version": "1.0.0",
+  "description": "GameVerse - Gamified Mini-Game Arena & Progression Platform",
+  "private": true,
+  "scripts": {
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "test:client": "npm --prefix client test",
+    "test:server": "npm --prefix server test"
+  }
+}
